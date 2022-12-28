@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://memecomplete.com/share/images/biw/gets_iced_coffee/in_the_winter.png%3Ftoken%3Da3xko4psnlvqnc6pp7b5" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wildannouval&icon=7&color=0)](https://visitcount.itsvg.in)
